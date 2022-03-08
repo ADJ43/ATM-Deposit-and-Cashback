@@ -1,2 +1,3 @@
-# ATM-Deposit-and-Cashback
-ATM deposit and cashback exercise
+# ATMExercise
+Simple React ATM
+<img src="./atm.png" />
